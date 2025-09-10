@@ -1,0 +1,91 @@
+.h {
+    color:darkorchid;
+    background-color:rgb(100,34,43);
+    text-align:center;
+    font-size:300%;
+    font-family:fantasy;
+    lighting-color:#ff1890;
+    padding:10px;
+    margin:10px;
+    font-weight:norm;
+    overlay:lightblue;
+
+
+}
+p {
+    font-family:verdana;
+    font-size:160%;
+    text-align:center;
+    color:orange;
+    background-color:rgb(100,34,43);
+    border:2px solid black;
+    border-radius:20px;
+    padding:10px;
+    margin:10px;
+    font-weight:100;
+    flex:center;
+}
+
+body {
+    background-color: lightblue;
+    background-image: url('https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?cs=srgb&dl=pexels-pixabay-531880.jpg&fm=jpg');
+}
+div {
+    color:#ff9028;
+    text-align:aqua;
+    border: 2px solid black;
+    border-radius:20px;
+    padding:10px;
+    margin:10px;
+    font-size:150%;
+    font-family:verdana;
+    flex:center;
+    image-resolution:300dpi;
+}
+#id1 {
+    color:darkblue;
+    text-align:center;
+    border: 2px solid black;
+    border-radius:10px;
+    padding:10px;
+    margin:10px;
+    font-size:150%;
+    font-family:verdana;
+}
+#id2 {
+    color:darkgreen;
+    font-style:italic;
+    text-align:center;
+    padding:10px;
+    padding-block:darkgreen;
+    font-size:150%;
+    font-family:verdana;
+}
+a {
+    color:orange;
+    text-align:center;
+    font-size:150%;
+    font-family:verdana;
+}
+h1,h2{
+    text-align:center;
+    font-size:200%;
+    font-family:Arial;
+    color:darkblue;
+    background-color:lightgreen;
+    border:2px solid black;
+    border-radius:20px;
+    padding:10px;
+    animation: orwards;
+}
+#id3 {
+    color:black;
+    text-align:center;
+    border: 2px solid black;
+    border-radius:10px;
+    padding:10px;
+    margin:10px;
+    font-size:150%;
+    font-family:verdana;
+    flex:auto;
+}
